@@ -1,2 +1,2 @@
-# node-logit
-A basic logger for Node.js with integrations for log management SaaS vendors.
+# Log It
+This is a basic logger for Node.js with integrations some log management SaaS vendors. Currently, Log It only supports Loggly.
