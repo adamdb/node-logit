@@ -1,0 +1,25 @@
+{
+  "name": "node-logit",
+  "version": "0.0.1",
+  "description": "A basic logger for Node.js with integrations for log management SaaS vendors.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamdb/node-logit.git"
+  },
+  "keywords": [
+    "logging",
+    "logs",
+    "logger",
+    "loggly"
+  ],
+  "author": "Adam Balchunas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamdb/node-logit/issues"
+  },
+  "homepage": "https://github.com/adamdb/node-logit"
+}
